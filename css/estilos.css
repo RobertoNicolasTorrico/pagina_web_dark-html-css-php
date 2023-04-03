@@ -1,0 +1,26 @@
+.bg-negro{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.text-titulo{
+    color:#343a40;
+    border-bottom: 1px solid #343a40; 
+    margin-top: 20px;
+}
+
+main{
+    padding-bottom: 60px;
+}
+
+body {
+    background-image: url(../imagenes/fondo/bg-body.jpg);
+}
+
+div a img{
+    padding-top: 20px;
+}
+.separacion{
+    padding-bottom:50px;
+}
